@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋, </h1>
+<h1 align="center">👋 Hello World! </h1>
 <h3 align="center"> I'm Tuti an ambitious software engineer from Nairobi, 🇰🇪 i always strive to learn, improve & expand my skill set as a young SWE. </h3>
 
 <h3 align="left">Connect with me:</h3>
