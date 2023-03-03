@@ -1,4 +1,5 @@
-<h1 align="center">👋 「こんにちは世界」, Karibu Sana </h1>
+<h1 align="center"><img src="https://media.tenor.com/6Av_k8DzFDQAAAAM/meli-wave.gif" width="120" height="80"/>  「こんにちは世界」, Karibu Sana </h1>
+
 <h3 align="center"> I'm Tuti an ambitious software engineer from Nairobi, 🇰🇪 i always strive to learn, improve & expand my skill set as a young SWE. </h3>
 
 <h3 align="left">Connect with me:</h3>
