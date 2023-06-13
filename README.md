@@ -9,9 +9,9 @@
 
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
-     <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next Js" height="30" width="40" />
+     <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next Js" height="50" width="50" />
 </p>
-
+<p>Next Js Framework</p>
 <h3 align="left">The Tech Stack I intaract with on a Daily are:</h3>
 
 * **Programming Languages**:
