@@ -9,7 +9,7 @@
 
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/collins-amwayi-578a96226/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins amwayi" height="30" width="40" /></a>
+<img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg alt="collins amwayi" height="30" width="40" />
 </p>
 
 <h3 align="left">The Tech Stack I intaract with on a Daily are:</h3>
