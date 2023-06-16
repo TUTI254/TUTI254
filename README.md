@@ -72,5 +72,3 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuti254&show_icons=true&theme=apprentice&locale=en" alt="tuti254" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuti254&layout=compact&langs_count=10&theme=apprentice&locale=en"/></p>
