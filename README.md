@@ -12,7 +12,7 @@
           <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next Js" height="50" width="50" />
      </p>
      <p>Next Js Framework</p>
-     <p align="right">
+     <p align="left">
           <img align="center" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Next Js" height="50" width="50" />
      </p>
      <p>Laravel Framework</p>
