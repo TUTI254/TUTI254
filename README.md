@@ -7,11 +7,12 @@
 <a href="https://www.linkedin.com/in/collins-amwayi-578a96226/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins amwayi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="left">Currently Using:</h3>
      <p align="left">
           <img align="center" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next Js" height="50" width="50" />
      </p>
      <p>Next Js Framework</p>
+<h3 align="left">Currently Learning:</h3>
      <p align="left">
           <img align="center" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Next Js" height="50" width="50" />
      </p>
