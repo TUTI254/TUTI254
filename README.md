@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.tenor.com/6Av_k8DzFDQAAAAM/meli-wave.gif" width="120" height="80"/>  「こんにちは世界」, Karibu Sana </h1>
 
-<h3 align="center"> I'm Tuti an ambitious software engineer from Nairobi 🇰🇪 ,i always strive to learn, improve & expand my skill set. </h3>
+<h3 align="center"> I'm Tuti a Fullstack software engineer from Nairobi 🇰🇪 ,i always strive to learn, improve & expand my skill set. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,9 +42,10 @@
 
 * **Backend Development**: 
 <div>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
 
 </div>
@@ -71,6 +72,7 @@
 * **Other Tools & services i use**: 
 <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
