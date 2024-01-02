@@ -15,7 +15,7 @@
      <p>Next Js Framework</p>
 <h3 align="left">Currently Learning:</h3>
      <p align="left">
-          <img align="center" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" height="50" width="50" />
+          <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" height="50" width="80" />
      </p>
      <p>Flask</p>
 
