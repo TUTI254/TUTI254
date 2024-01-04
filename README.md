@@ -17,7 +17,7 @@
      <p align="left">
           <img align="center" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest" height="50" width="50" />
      </p>
-     <p>Flask</p>
+     <p>Nest Js</p>
 
 <h3 align="left">The Tech Stack I intaract with on a Daily are:</h3>
 
