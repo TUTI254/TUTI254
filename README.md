@@ -15,7 +15,7 @@
      <p>Next Js Framework</p>
 <h3 align="left">Currently Learning:</h3>
      <p align="left">
-          <img align="center" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="flask" height="50" width="50" />
+          <img align="center" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest" height="50" width="50" />
      </p>
      <p>Flask</p>
 
@@ -45,7 +45,7 @@
 <div>
      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> 
-     <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" height="40" width="40" />
+     <img  src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" height="40" width="40" />
      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
      <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
 
