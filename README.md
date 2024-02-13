@@ -49,6 +49,7 @@
      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> 
      <img  src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest" height="40" width="40" />
+     <img  src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="40" width="40" />
      <img  src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" height="40" width="40" />
      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
      <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
