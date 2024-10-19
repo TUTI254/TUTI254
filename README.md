@@ -10,10 +10,7 @@
 
 
 <h3 align="left">Currently Learning:</h3>
-     <p align="left">
-          <img align="center" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest" height="50" width="50" />
-     </p>
-     <p>Nest Js</p>
+     
   <p align="left">
           <img align="center" src="https://www.svgrepo.com/show/452214/go.svg" alt="go" height="50" width="50" />
      </p>
